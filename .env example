@@ -1,0 +1,23 @@
+MYSQL_DB_HOST=172.16.251.99
+MYSQL_DB_PORT=3306
+MYSQL_DB_USERNAME=banyar.sithu
+MYSQL_DB_PASSWORD=frontiir
+MYSQL_DB_DATABASE=rt5
+CUSTOM_FIELD_NAMES="Local Service ID,Customer ID,CPE ID,Ticket Problem,Ticket Problem,Service Root Cause,Suspected Area of Issue,Root Cause Category,Service Root Cause"
+JWT_SECRET_KEY=123
+API_SECRET_KEY=123
+DATABASE_VERSION=5.7
+DATABASE_STORE=.dbdata
+DOMAIN_PORT=8001
+DOMAIN_HOST=localhost:${DOMAIN_PORT}
+APPLY_MIDDLEWARE=true
+
+
+
+
+
+
+
+
+
+
